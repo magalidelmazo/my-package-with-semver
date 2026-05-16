@@ -27,3 +27,4 @@ jobs:
           uv lock
           git add uv.lock
           uv run semantic-release -v version
+
