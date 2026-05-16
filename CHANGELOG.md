@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Trigger patch release
+  ([`6bb6940`](https://github.com/magalidelmazo/my-package-with-semver/commit/6bb6940919c1a662a58933e90359ceb32ce62a98))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Bug Fixes
